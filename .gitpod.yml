@@ -1,2 +1,5 @@
 image: 
   file: .gitpod.dockerfile
+vscode:
+  extensions:
+    - julialang.language-julia@0.12.3:lgRyBd8rjwUpMGG0C5GAig==
