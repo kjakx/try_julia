@@ -1,3 +1,3 @@
 FROM julia
-USER gitpod
+USER root
 RUN alias save="~/try_julia/save.sh"
